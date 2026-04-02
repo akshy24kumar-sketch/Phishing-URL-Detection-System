@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+tldextract
+joblib
+requests
+python-whois
+xgboost
