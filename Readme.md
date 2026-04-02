@@ -101,7 +101,7 @@ python phish_detector_gui.py
 
 ### 🖥️ Phished URL
 
-![Phished](images/Phished.png)
+![Phished](images/phished.png)
 
 ---
 
