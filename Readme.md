@@ -95,9 +95,13 @@ python phish_detector_gui.py
 
 ## 📸 Screenshots
 
-### 🖥️ Application UI
+### 🖥️ Legitimate URL
 
-![GUI](images/screenshot.png)
+![Legitimate](images/legitimate.png)
+
+### 🖥️ Phished URL
+
+![Phished](images/Phished.png)
 
 ---
 
